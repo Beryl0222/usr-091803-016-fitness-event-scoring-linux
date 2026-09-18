@@ -1,0 +1,7 @@
+{
+  "name": "fitness-event-scoring",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
