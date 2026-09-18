@@ -10,3 +10,7 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 事件日志（运行数据）
+*.jsonl
+/data/
